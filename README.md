@@ -1,2 +1,2 @@
 # Project 1
-Test deploy - manual
+Digital School / Lipjan
